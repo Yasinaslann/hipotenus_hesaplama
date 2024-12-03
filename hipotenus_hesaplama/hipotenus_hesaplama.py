@@ -3,8 +3,8 @@
 
 def hipotenus_hesap():
     # Kullanıcıdan kenar uzunluklarını alıyoruz.
-    a = int(input("Dik Üçgenin Birinci Kenarını Giriniz: "))
-    b = int(input("Dik Üçgenin İkinci  Kenarını Giriniz: "))
+    a = float(input("Dik Üçgenin Birinci Kenarını Giriniz: "))
+    b = float(input("Dik Üçgenin İkinci  Kenarını Giriniz: "))
 
     # Hipotenüs hesaplama formülü
     c= (a ** 2 + b ** 2)** 0.5  # Karekökü almak için üs kullanıyoruz.
