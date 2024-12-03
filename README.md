@@ -11,9 +11,9 @@ Bu Python programı, dik üçgenin iki kenarını girdikten sonra hipotenüs uzu
    ```bash
    python hipotenus_hesaplama.py
 
-4.Program, dik üçgenin iki kenarını girmenizi isteyecektir. Kenar uzunluklarını girin.
+Program, dik üçgenin iki kenarını girmenizi isteyecektir. Kenar uzunluklarını girin.
 
-5.Program, hipotenüsün uzunluğunu hesaplayarak ekrana yazdıracaktır.
+Program, hipotenüsün uzunluğunu hesaplayarak ekrana yazdıracaktır.
 
 # Örnek Çıktı
 
