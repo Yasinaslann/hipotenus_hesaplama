@@ -30,7 +30,3 @@ Hipotenüs: 5.0
 ## Katkı
 
 Bu proje tamamen eğitim amaçlıdır. Katkı yaparak geliştirebilirsiniz.
-
-## Lisans
-
-Bu proje MIT Lisansı altında lisanslanmıştır.
